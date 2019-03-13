@@ -1,0 +1,351 @@
+
+ˆsquid:S1192ò"WDefine a constant instead of duplicating this literal "Obligacion_Total_Pesos" 4 times.(âÏÿ×H•RCRITICALZ
+CODE_SMELL
+gsquid:S1948="2Make "listaCompromisos" transient or serializable.(îã¦èÿÿÿÿÿHûRCRITICALZ
+CODE_SMELL
+`squid:S2093¨"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+rsquid:CallToDeprecatedMethodÕ".Remove this use of "update"; it is deprecated.(ì“”ºüÿÿÿÿHûRMINORZ
+CODE_SMELL
+hsquid:S2209ğ"5Change this instance-reference to a static reference.(ˆø±øûÿÿÿÿHäRMAJORZ
+CODE_SMELL
+†squid:S00116L"XRename this field "valor_pactado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âˆ·ŸH¡RMINORZ
+CODE_SMELL
+squid:S1192”"KDefine a constant instead of duplicating this literal "Id_acuerdo" 4 times.(ÄÚé«úÿÿÿÿHòRCRITICALZ
+CODE_SMELL
+squid:S1192œ"PDefine a constant instead of duplicating this literal "application/pdf" 5 times.(Û­Ê¡HÀRCRITICALZ
+CODE_SMELL
+Msquid:S2111¨"!Use "BigDecimal.valueOf" instead.(ÇÃ‡àøÿÿÿÿH²RMAJORZBUG
+qsquid:S2095†"HUse try-with-resources or close this "FileReader" in a "finally" clause.(‹äÆıHŸRBLOCKERZBUG
+…squid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Çø¨ùÿÿÿÿHêRMINORZ
+CODE_SMELL
+]squid:S1066ö"/Merge this if statement with the enclosing one.(×™‡HşRMAJORZ
+CODE_SMELL
+‰squid:UselessImportCheck/"JRemove this unused import 'net.sf.jasperreports.engine.JasperFillManager'.(ü°ğäüÿÿÿÿH¶RMINORZ
+CODE_SMELL
+‚squid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ºËşÿÿÿÿH«RMINORZ
+CODE_SMELL
+‚squid:S00100¢	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¾ğøÿÿÿÿHüRMINORZ
+CODE_SMELL
+‘squid:S00116N"^Rename this field "fecha_actualizacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆåÁÖúÿÿÿÿH RMINORZ
+CODE_SMELL
+Œsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ôêşÿÿÿÿH‘RMINORZ
+CODE_SMELL
+Wsquid:S2129¢"$Remove this "BigDecimal" constructor(ÇÃ‡àøÿÿÿÿHøRMAJORZ
+CODE_SMELL
+…squid:S1192"TDefine a constant instead of duplicating this literal "Anio_acuerdo_letras" 4 times.(µ•ú¹HíRCRITICALZ
+CODE_SMELL
+Tsquid:S1148Ã"#Use a logger to log this exception.(Ç’ÇêHÕRMINORZVULNERABILITY
+…squid:S1192ı"ODefine a constant instead of duplicating this literal "Mes_compromiso" 4 times.(ÿñî…ÿÿÿÿÿH‚RCRITICALZ
+CODE_SMELL
+squid:S1192î"KDefine a constant instead of duplicating this literal "Referencia" 4 times.(·»‹öûÿÿÿÿH‹RCRITICALZ
+CODE_SMELL
+|squid:HiddenFieldCheck">Rename "compromiso" which hides the field declared at line 58.(•ÿ‡®ÿÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+hsquid:S2209ê"5Change this instance-reference to a static reference.(ˆø±øûÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethodÔ".Remove this use of "update"; it is deprecated.(ÄÆ¾HÚRMINORZ
+CODE_SMELL
+Wsquid:S2129¨"$Remove this "BigDecimal" constructor(ÇÃ‡àøÿÿÿÿH³RMAJORZ
+CODE_SMELL
+xsquid:S1192í"GDefine a constant instead of duplicating this literal "Cedula" 4 times.(Îí˜àHRCRITICALZ
+CODE_SMELL
+squid:S1192×"^Define a constant instead of duplicating this literal "frmcompromiso3:pnlCompromiso3" 3 times.(Çóà•H¸RCRITICALZ
+CODE_SMELL
+rsquid:HiddenFieldCheckŒ"9Rename "lista" which hides the field declared at line 66.(ŸàõÅH˜RMAJORZ
+CODE_SMELL
+hsquid:S2209‹"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(¨©ÇıÿÿÿÿH–RMAJORZ
+CODE_SMELL
+…squid:S00117¢	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¾ğøÿÿÿÿH°RMINORZ
+CODE_SMELL
+Œsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ôêşÿÿÿÿH¬RMINORZ
+CODE_SMELL
+hsquid:S2209"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿHñRMAJORZ
+CODE_SMELL
+hsquid:S2209ş"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+hsquid:S2209ˆ"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿHıRMAJORZ
+CODE_SMELL
+—squid:S1192¢"fDefine a constant instead of duplicating this literal "Error nÃºmero de referencia no existe" 4 times.(ŠÜÖ–HRCRITICALZ
+CODE_SMELL
+ƒsquid:S1192"MDefine a constant instead of duplicating this literal "Anio_acuerdo" 4 times.(ƒ‹ç§úÿÿÿÿHëRCRITICALZ
+CODE_SMELL
+“squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ôôæøÿÿÿÿH”RMINORZ
+CODE_SMELL
+ysquid:HiddenFieldCheckÏ"@Rename "ultimoValor" which hides the field declared at line 103.(ÛĞã–HˆRMAJORZ
+CODE_SMELL
+_squid:S1481",Remove this unused "convert" local variable.(åé–¥üÿÿÿÿHßRMINORZ
+CODE_SMELL
+Ysquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÅRMINORZVULNERABILITY
+hsquid:S2209ƒ"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿHíRMAJORZ
+CODE_SMELL
+hsquid:S2209û"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+csquid:S1948^".Make "outputStream" transient or serializable.(ÃıôıÿÿÿÿHÁRCRITICALZ
+CODE_SMELL
+nsquid:S1854";Remove this useless assignment to local variable "convert".(åé–¥üÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+asquid:S1948:",Make "compromiso" transient or serializable.(Ï¥ÒùşÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+msquid:CallToDeprecatedMethodı".Remove this use of "update"; it is deprecated.(¦“ªÒHåRMINORZ
+CODE_SMELL
+squid:S1192‚"WDefine a constant instead of duplicating this literal "Anio_compromiso_letras" 4 times.(–ï©©ùÿÿÿÿH™RCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ÇË¾ˆúÿÿÿÿHãRMAJORZ
+CODE_SMELL
+hsquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+HÛRMINORZ
+CODE_SMELL
+Wsquid:S1948]"'Make "media" transient or serializable.(€ÖóÙHÔRCRITICALZ
+CODE_SMELL
+˜squid:S1192¬"gDefine a constant instead of duplicating this literal "/resources/consecutivo/consecutivo.txt" 3 times.(‚–‚HºRCRITICALZ
+CODE_SMELL
+csquid:S2209ö"5Change this instance-reference to a static reference.(±·ùËHîRMAJORZ
+CODE_SMELL
+‚squid:S00100¦	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÙœæùÿÿÿÿH‰RMINORZ
+CODE_SMELL
+}squid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¶óĞHäRMINORZ
+CODE_SMELL
+Msquid:S2111¢"!Use "BigDecimal.valueOf" instead.(ÇÃ‡àøÿÿÿÿH£RMAJORZBUG
+csquid:S2209ó"5Change this instance-reference to a static reference.(±·ùËHİRMAJORZ
+CODE_SMELL
+Xsquid:S1481Ö"*Remove this unused "bites" local variable.(ªƒ¡H·RMINORZ
+CODE_SMELL
+|squid:HiddenFieldCheckİ">Rename "compromiso" which hides the field declared at line 58.(•ÿ‡®ÿÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—î»HìRMAJORZ
+CODE_SMELL
+rsquid:UselessImportCheck"8Remove this unused import 'javax.faces.bean.ViewScoped'.(ô—É¦HğRMINORZ
+CODE_SMELL
+rsquid:CallToDeprecatedMethodÖ".Remove this use of "update"; it is deprecated.(»øÿ‰ÿÿÿÿÿH„RMINORZ
+CODE_SMELL
+hsquid:S2209–"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+‚squid:S00100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Çø¨ùÿÿÿÿHêRMINORZ
+CODE_SMELL
+‡squid:S1192ï"QDefine a constant instead of duplicating this literal "Obligacion_Total" 4 times.(À©©ßùÿÿÿÿHëRCRITICALZ
+CODE_SMELL
+ksquid:S1854ó"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+Œsquid:S1192ş"VDefine a constant instead of duplicating this literal "Mes_compromiso_letras" 4 times.(ÃæûÿÿÿÿH¦RCRITICALZ
+CODE_SMELL
+Œsquid:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ôêşÿÿÿÿHÑRMINORZ
+CODE_SMELL
+ksquid:S2259“"DA "NullPointerException" could be thrown; "fields" is nullable here.(¢¿µ‡H¢RMAJORZBUG
+]squid:S1948Y"(Make "cuotas" transient or serializable.(êû·²üÿÿÿÿH€RCRITICALZ
+CODE_SMELL
+‡squid:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(©µ‚‰HRMINORZ
+CODE_SMELL
+|squid:S00100†
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Î¤HÿRMINORZ
+CODE_SMELL
+Tsquid:S1148è"#Use a logger to log this exception.(Ç’ÇêHµRMINORZVULNERABILITY
+}squid:S1192‡"LDefine a constant instead of duplicating this literal "Dia_acuerdo" 4 times.(âúÏH—RCRITICALZ
+CODE_SMELL
+€squid:S1192"ODefine a constant instead of duplicating this literal "compromiso.pdf" 4 times.(ÇšÿÆHªRCRITICALZ
+CODE_SMELL
+Osquid:S2129”"!Remove this "Integer" constructor(œ•æèHŠRMAJORZ
+CODE_SMELL
+…squid:S00117Š	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šÂµıÿÿÿÿHüRMINORZ
+CODE_SMELL
+‰squid:S1192Œ"SDefine a constant instead of duplicating this literal "Mes_acuerdo_letras" 4 times.(®¶íüıÿÿÿÿH†RCRITICALZ
+CODE_SMELL
+Osquid:S2129"!Remove this "Integer" constructor(œ•æèHçRMAJORZ
+CODE_SMELL
+hsquid:S2209Ÿ"5Change this instance-reference to a static reference.(¶õ–øûÿÿÿÿH“RMAJORZ
+CODE_SMELL
+hsquid:S2209õ"5Change this instance-reference to a static reference.(ˆø±øûÿÿÿÿH½RMAJORZ
+CODE_SMELL
+…squid:S1192ù"ODefine a constant instead of duplicating this literal "Dia_compromiso" 4 times.(ñË“ùÿÿÿÿH®RCRITICALZ
+CODE_SMELL
+\squid:S1481ó")Remove this unused "date" local variable.(”Ç©šùÿÿÿÿHŞRMINORZ
+CODE_SMELL
+w
+squid:S899²"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿH¼RMINORZVULNERABILITY
+‘squid:S1192¢"`Define a constant instead of duplicating this literal "nÃºmero de referencia no existe" 5 times.(ŠÜÖ–H§RCRITICALZ
+CODE_SMELL
+Wsquid:S1481¯")Remove this unused "data" local variable.(ë®½ŸH†RMINORZ
+CODE_SMELL
+w
+squid:S899×"BDo something with the "boolean" value returned by "createNewFile".(Ğ’ÍùÿÿÿÿH…RMINORZVULNERABILITY
+csquid:S2209¥"5Change this instance-reference to a static reference.(×ÓÃHıRMAJORZ
+CODE_SMELL
+Rsquid:S2129¦"$Remove this "BigDecimal" constructor(•ŸûƒHáRMAJORZ
+CODE_SMELL
+k
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(üÌ ÔúÿÿÿÿH¯RMAJORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethodÖ".Remove this use of "update"; it is deprecated.(Çóà•HRMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ºÏ¼Ù8¡Îêê–-H¯RMAJORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethodî".Remove this use of "update"; it is deprecated.(Çóà•H¾RMINORZ
+CODE_SMELL
+msquid:CallToDeprecatedMethod×".Remove this use of "update"; it is deprecated.(Çóà•HÄRMINORZ
+CODE_SMELL
+csquid:S2209"5Change this instance-reference to a static reference.(±·ùËH€RMAJORZ
+CODE_SMELL
+‰squid:S00116P"VRename this field "fecha_cuota" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ—úóøÿÿÿÿHòRMINORZ
+CODE_SMELL
+}squid:S1192ì"GDefine a constant instead of duplicating this literal "Nombre" 4 times.(í³•ÏûÿÿÿÿHŒRCRITICALZ
+CODE_SMELL
+‡squid:S1192ú"VDefine a constant instead of duplicating this literal "Dia_compromiso_letras" 4 times.(ó£û½HÜRCRITICALZ
+CODE_SMELL
+squid:S1192ğ"WDefine a constant instead of duplicating this literal "Obligacion_Total_Letra" 4 times.(ˆø±øûÿÿÿÿHøRCRITICALZ
+CODE_SMELL
+wsquid:S1192ë"FDefine a constant instead of duplicating this literal "Email" 4 times.(Œ„¤ÿHèRCRITICALZ
+CODE_SMELL
+Xsquid:S1481Ù"*Remove this unused "bites" local variable.(ªƒ¡HñRMINORZ
+CODE_SMELL
+|squid:S1192—"KDefine a constant instead of duplicating this literal "LOGOSISTEM" 4 times.(˜ì†½H¹RCRITICALZ
+CODE_SMELL
+csquid:S2209‰"5Change this instance-reference to a static reference.(±·ùËHˆRMAJORZ
+CODE_SMELL
+„squid:UselessImportCheck-"JRemove this unused import 'net.sf.jasperreports.engine.JREmptyDataSource'.(Ğå’¬HÖRMINORZ
+CODE_SMELL
+|squid:S1192’"FDefine a constant instead of duplicating this literal "TABLA" 4 times.(‹Ã´¢şÿÿÿÿHƒRCRITICALZ
+CODE_SMELL
+‚squid:S1192‹"LDefine a constant instead of duplicating this literal "Mes_acuerdo" 4 times.(¨›çêıÿÿÿÿH›RCRITICALZ
+CODE_SMELL
+Wsquid:S1948B"'Make "lista" transient or serializable.(…§”©H„RCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇË¾ˆúÿÿÿÿHöRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ÇË¾ˆúÿÿÿÿHšRMAJORZ
+CODE_SMELL
+~squid:HiddenFieldCheck©"@Rename "ultimoValor" which hides the field declared at line 103.(Ú…–µúÿÿÿÿHşRMAJORZ
+CODE_SMELL
+csquid:S2209˜"5Change this instance-reference to a static reference.(Š—¨HRMAJORZ
+CODE_SMELL
+f
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(³Å™‹HçRMAJORZ
+CODE_SMELL
+squid:S00116O"[Rename this field "fecha_compromiso" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àµ»ıÿÿÿÿHõRMINORZ
+CODE_SMELL
+‚squid:S00100†	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾»ÜùÿÿÿÿHğRMINORZ
+CODE_SMELL
+usquid:S2095‡"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–HÇRBLOCKERZBUG
+`squid:S2093Î"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÂRCRITICALZ
+CODE_SMELL
+f
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(ô÷ŠÍHÎRMAJORZ
+CODE_SMELL
+€squid:S00117Š
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŠÄüHúRMINORZ
+CODE_SMELL
+Osquid:S2129‰"!Remove this "Integer" constructor(œ•æèHÃRMAJORZ
+CODE_SMELL
+csquid:S2209"5Change this instance-reference to a static reference.(±·ùËHèRMAJORZ
+CODE_SMELL
+‰squid:S1192ˆ"SDefine a constant instead of duplicating this literal "Dia_acuerdo_letras" 4 times.(°–ğøÿÿÿÿH…RCRITICALZ
+CODE_SMELL
+Xsquid:S00108")Either remove or fill this block of code.(Úîø›HĞRMAJORZ
+CODE_SMELL
+csquid:S2209„"5Change this instance-reference to a static reference.(±·ùËHôRMAJORZ
+CODE_SMELL
+Ysquid:S1148ß"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHØRMINORZVULNERABILITY
+\squid:S1481Ô")Remove this unused "data" local variable.(üËøÆüÿÿÿÿHÆRMINORZ
+CODE_SMELL
+~squid:UselessImportCheck0"DRemove this unused import 'net.sf.jasperreports.engine.JasperPrint'.( åÏÀHƒRMINORZ
+CODE_SMELL
+f
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ô÷ŠÍHRMAJORZ
+CODE_SMELL
+|squid:HiddenFieldCheckà">Rename "compromiso" which hides the field declared at line 58.(•ÿ‡®ÿÿÿÿÿHæRMAJORZ
+CODE_SMELL
+`squid:S1948;"+Make "loginBean" transient or serializable.(š²„¢üÿÿÿÿHRCRITICALZ
+CODE_SMELL
+}squid:S00100š	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷²Ö½HïRMINORZ
+CODE_SMELL
+‚squid:S00100ª	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª±ÊşÿÿÿÿHïRMINORZ
+CODE_SMELL
+‹squid:S00116M"XRename this field "fecha_gestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¶éøÿÿÿÿHúRMINORZ
+CODE_SMELL
+squid:S00116H"ZRename this field "referencia_pago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¥ãğıÿÿÿÿHËRMINORZ
+CODE_SMELL
+hsquid:S1948?"3Make "compromisosFiltro" transient or serializable.(îÈ¢„øÿÿÿÿHÓRCRITICALZ
+CODE_SMELL
+hsquid:S2209ç"5Change this instance-reference to a static reference.(ˆø±øûÿÿÿÿH×RMAJORZ
+CODE_SMELL
+|squid:HiddenFieldCheckè">Rename "compromiso" which hides the field declared at line 58.(•ÿ‡®ÿÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+csquid:S2209£"5Change this instance-reference to a static reference.(×ÓÃHÿRMAJORZ
+CODE_SMELL
+†squid:UselessImportCheck."LRemove this unused import 'net.sf.jasperreports.engine.JasperExportManager'.(»ê•ÀHôRMINORZ
+CODE_SMELL
+‚squid:S00100Š	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šÂµıÿÿÿÿH»RMINORZ
+CODE_SMELL
+‚squid:S1192ô"QDefine a constant instead of duplicating this literal "Fecha_Compromiso" 4 times.(ÔíÚŠHóRCRITICALZ
+CODE_SMELL
+csquid:S2209û"5Change this instance-reference to a static reference.(±·ùËH’RMAJORZ
+CODE_SMELL
+hsquid:S2209‰"5Change this instance-reference to a static reference.(æ£ÜØùÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+‚squid:S00100–	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦şØ†şÿÿÿÿHéRMINORZ
+CODE_SMELL
+lsquid:S1854¯"9Remove this useless assignment to local variable "cuota".(ğ±ãàøÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+csquid:S2209"5Change this instance-reference to a static reference.(±·ùËHùRMAJORZ
+CODE_SMELL
+}squid:S00100²	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÒåHõRMINORZ
+CODE_SMELL
+ƒsquid:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«½›°HîRCRITICALZ
+CODE_SMELL
+Xsquid:S1481Ü"*Remove this unused "bites" local variable.(ªƒ¡HâRMINORZ
+CODE_SMELL
+|squid:HiddenFieldCheckÚ">Rename "compromiso" which hides the field declared at line 58.(•ÿ‡®ÿÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+|squid:S1192ò"KDefine a constant instead of duplicating this literal "$ #,##0.00" 4 times.(âÏÿ×HùRCRITICALZ
+CODE_SMELL
+Œsquid:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ôêşÿÿÿÿHRMINORZ
+CODE_SMELL
+Xsquid:S1481ä"*Remove this unused "bites" local variable.(ªƒ¡H©RMINORZ
+CODE_SMELL
+squid:S1192"PDefine a constant instead of duplicating this literal "Anio_compromiso" 4 times.(é•€ëHÙRCRITICALZ
+CODE_SMELL
+{squid:S1192ì"JDefine a constant instead of duplicating this literal "Dias_Mora" 3 times.(”„¥H´RCRITICALZ
+CODE_SMELL
+csquid:S2209”"5Change this instance-reference to a static reference.(Š—¨H¥RMAJORZ
+CODE_SMELL
+jsquid:S1854°"<Remove this useless assignment to local variable "fechaTmp".(±Ş†ÆHöRMAJORZ
+CODE_SMELL
+…squid:S00117ª	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª±ÊşÿÿÿÿHæRMINORZ
+CODE_SMELL
+hsquid:S2209›"5Change this instance-reference to a static reference.(¶õ–øûÿÿÿÿHÏRMAJORZ
+CODE_SMELL
+Šsquid:S00116J"WRename this field "interes_mora" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃàÒîûÿÿÿÿHéRMINORZ
+CODE_SMELL
+}squid:S00100Š
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŠÄüHÍRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ÇË¾ˆúÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+‚squid:S00100®	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÔˆúÿÿÿÿH­RMINORZ
+CODE_SMELL
+fsquid:S1948A"1Make "numerosTarjetas" transient or serializable.(¥ç—ûÿÿÿÿH‰RCRITICALZ
+CODE_SMELL
+€squid:S00117š	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷²Ö½HÌRMINORZ
+CODE_SMELL
+€squid:S00117²	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÒåHóRMINORZ
+CODE_SMELL
+Wsquid:S1948_"'Make "file2" transient or serializable.(ÊáíÇH±RCRITICALZ
+CODE_SMELL
+Rsquid:S2129 "$Remove this "BigDecimal" constructor(•ŸûƒHìRMAJORZ
+CODE_SMELL
+esquid:S1948>"5Make "selectedCompromisos" transient or serializable.(Ä»ÿHàRCRITICALZ
+CODE_SMELL
+zsquid:S1192–"IDefine a constant instead of duplicating this literal "LOGOTIGO" 4 times.(òêãËHœRCRITICALZ
+CODE_SMELL
+€squid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ºÏ¼Ù8œ“œë–-HÀ RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºÏ¼Ù8œ“œë–-HÁ RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ºÏ¼Ù8œ“œë–-HÂ RMAJORZ
+CODE_SMELL
+jsquid:S1481É"0Remove this unused "consecutivo" local variable.(ü£÷ıÿÿÿÿ8œ“œë–-HÃ RMINORZ
+CODE_SMELL
+jsquid:S1481Ì"0Remove this unused "consecutivo" local variable.(ü£÷ıÿÿÿÿ8œ“œë–-HÄ RMINORZ
+CODE_SMELL
+jsquid:S1481×"0Remove this unused "consecutivo" local variable.(ü£÷ıÿÿÿÿ8œ“œë–-HÅ RMINORZ
+CODE_SMELL

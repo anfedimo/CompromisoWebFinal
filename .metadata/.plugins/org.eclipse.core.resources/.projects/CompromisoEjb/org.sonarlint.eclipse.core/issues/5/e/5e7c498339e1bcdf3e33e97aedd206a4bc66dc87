@@ -1,0 +1,13 @@
+
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õžÿ™HÔRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Õžÿ™HÕRMAJORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(¸‘öHÖRMAJORZ
+CODE_SMELL
+ysquid:S00112<"FDefine and throw a dedicated exception instead of using a generic one.(èÝÎÑþÿÿÿÿH×RMAJORZ
+CODE_SMELL
+Žsquid:UselessImportCheck"ORemove this unused import 'net.sf.jasperreports.engine.design.JRDesignDataset'.(€·ÂÔüÿÿÿÿHØRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHÙRMINORZ
+CODE_SMELL

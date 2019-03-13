@@ -1,0 +1,129 @@
+
+|squid:S00100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷²Ö½H·RMINORZ
+CODE_SMELL
+squid:S1450!"[Remove the "honorarios_s" field and declare it as a local variable in the relevant methods.(òŞş8µâÊğ•-HRMINORZ
+CODE_SMELL
+squid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î—İ'H´RMINORZ
+CODE_SMELL
+squid:S00117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸíµòH¤RMINORZ
+CODE_SMELL
+‡squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞ°8ºÇÄğ•-H—RMINORZ
+CODE_SMELL
+}squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¡šH”RMINORZ
+CODE_SMELL
+Œsquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª£Õùÿÿÿÿ8ºÇÄğ•-HŸRMINORZ
+CODE_SMELL
+‰squid:S00116"[Rename this field "obligacion_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑÄH¡RMINORZ
+CODE_SMELL
+squid:S00116"cRename this field "intereses_mora_descuento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò°€vH¸RMINORZ
+CODE_SMELL
+ksquid:S1068 "2Remove this unused "interes_mora_s" private field.(Ä­•¯ıÿÿÿÿ8µâÊğ•-HÈRMAJORZ
+CODE_SMELL
+squid:S00100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èó³ÔùÿÿÿÿH“RMINORZ
+CODE_SMELL
+}squid:S00100Ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—…ÙH¹RMINORZ
+CODE_SMELL
+…squid:S00117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç„İØùÿÿÿÿH©RMINORZ
+CODE_SMELL
+‚squid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ùçäıÿÿÿÿH£RMINORZ
+CODE_SMELL
+‰squid:S00116"[Rename this field "fecha_compromiso" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÊğ«H¢RMINORZ
+CODE_SMELL
+–squid:S1450 "]Remove the "interes_mora_s" field and declare it as a local variable in the relevant methods.(Ä­•¯ıÿÿÿÿ8µâÊğ•-H¨RMINORZ
+CODE_SMELL
+‰squid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª£Õùÿÿÿÿ8ºÇÄğ•-H±RMINORZ
+CODE_SMELL
+ˆsquid:S00116"ZRename this field "fecha_actualizo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©“úÄH²RMINORZ
+CODE_SMELL
+†squid:S00116"XRename this field "valor_pactado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âˆ·ŸHµRMINORZ
+CODE_SMELL
+}squid:S00100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÿÏ¬H«RMINORZ
+CODE_SMELL
+„squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñĞ°8ºÇÄğ•-H›RMINORZ
+CODE_SMELL
+„squid:S00117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šÂµıÿÿÿÿHÃRMINORZ
+CODE_SMELL
+Šsquid:S00116"WRename this field "interes_mora" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃàÒîûÿÿÿÿH¿RMINORZ
+CODE_SMELL
+fsquid:S1068""3Remove this unused "valor_pactado_s" private field.(¬™€8µâÊğ•-HÀRMAJORZ
+CODE_SMELL
+‰squid:S00100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†…Å‰ÿÿÿÿÿ8ºÇÄğ•-H˜RMINORZ
+CODE_SMELL
+|squid:S00100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¶óĞHºRMINORZ
+CODE_SMELL
+‰squid:S00100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üº˜âüÿÿÿÿ8ºÇÄğ•-H•RMINORZ
+CODE_SMELL
+squid:S00100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦şØ†şÿÿÿÿHRMINORZ
+CODE_SMELL
+„squid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê€ÂÔ8ºÇÄğ•-H½RMINORZ
+CODE_SMELL
+|squid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¿­ñH¥RMINORZ
+CODE_SMELL
+„squid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¾Œ8ºÇÄğ•-H»RMINORZ
+CODE_SMELL
+|squid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î—İ'H­RMINORZ
+CODE_SMELL
+‰squid:S00100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÁ³–úÿÿÿÿ8ºÇÄğ•-HÂRMINORZ
+CODE_SMELL
+“squid:S00116 "YRename this field "interes_mora_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä­•¯ıÿÿÿÿ8’ŒÂğ•-HÄRMINORZ
+CODE_SMELL
+‚squid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç„İØùÿÿÿÿHËRMINORZ
+CODE_SMELL
+squid:S00116""ZRename this field "valor_pactado_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬™€8’ŒÂğ•-H‘RMINORZ
+CODE_SMELL
+}squid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«—üùHRMINORZ
+CODE_SMELL
+squid:S00116"_Rename this field "honorarios_descuento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øûÙ„H¾RMINORZ
+CODE_SMELL
+|squid:S00100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸíµòHÆRMINORZ
+CODE_SMELL
+„squid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Çø¨ùÿÿÿÿH³RMINORZ
+CODE_SMELL
+‘squid:S1450""^Remove the "valor_pactado_s" field and declare it as a local variable in the relevant methods.(¬™€8µâÊğ•-HÉRMINORZ
+CODE_SMELL
+}squid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‘HªRMINORZ
+CODE_SMELL
+…squid:S00116"XRename this field "fecha_gestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹çÁcH°RMINORZ
+CODE_SMELL
+dsquid:S1068"+Remove this unused "saldo_s" private field.(ŒËÏüÿÿÿÿ8µâÊğ•-HRMAJORZ
+CODE_SMELL
+Œsquid:S00116"RRename this field "saldo_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒËÏüÿÿÿÿ8’ŒÂğ•-HšRMINORZ
+CODE_SMELL
+squid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šÂµıÿÿÿÿH¶RMINORZ
+CODE_SMELL
+‚squid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅæêÏøÿÿÿÿH RMINORZ
+CODE_SMELL
+}squid:S00100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬é«‚HÇRMINORZ
+CODE_SMELL
+„squid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡°¦ğ8ºÇÄğ•-HÌRMINORZ
+CODE_SMELL
+Œsquid:S00116"^Rename this field "fecha_actualizacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒäÃáHÊRMINORZ
+CODE_SMELL
+squid:S00117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷²Ö½HÁRMINORZ
+CODE_SMELL
+squid:S1450"VRemove the "saldo_s" field and declare it as a local variable in the relevant methods.(ŒËÏüÿÿÿÿ8µâÊğ•-HRMINORZ
+CODE_SMELL
+„squid:S00117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èó³ÔùÿÿÿÿH®RMINORZ
+CODE_SMELL
+…squid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ùçäıÿÿÿÿH¬RMINORZ
+CODE_SMELL
+Œsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†…Å‰ÿÿÿÿÿ8ºÇÄğ•-H’RMINORZ
+CODE_SMELL
+‹squid:S00116!"WRename this field "honorarios_s" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŞş8’ŒÂğ•-H–RMINORZ
+CODE_SMELL
+squid:S00100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Çø¨ùÿÿÿÿH™RMINORZ
+CODE_SMELL
+‡squid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê€ÂÔ8ºÇÄğ•-H¦RMINORZ
+CODE_SMELL
+csquid:S1068!"0Remove this unused "honorarios_s" private field.(òŞş8µâÊğ•-HÅRMAJORZ
+CODE_SMELL
+…squid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅæêÏøÿÿÿÿH§RMINORZ
+CODE_SMELL
+€squid:S00117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬é«‚HRMINORZ
+CODE_SMELL
+squid:S00116"ZRename this field "referencia_pago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¥ãğıÿÿÿÿHœRMINORZ
+CODE_SMELL
+squid:S00100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¾»ÜùÿÿÿÿH¼RMINORZ
+CODE_SMELL
+|squid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ıÖ±H¯RMINORZ
+CODE_SMELL

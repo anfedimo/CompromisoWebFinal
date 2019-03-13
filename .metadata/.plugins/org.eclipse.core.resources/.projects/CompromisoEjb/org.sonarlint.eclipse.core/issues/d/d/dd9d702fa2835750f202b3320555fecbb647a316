@@ -1,0 +1,41 @@
+
+ssquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(ú¼˜GHĞRMAJORZ
+CODE_SMELL
+usquid:S00112×"FDefine and throw a dedicated exception instead of using a generic one.( öèHÑRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(É•­ŸøÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+„squid:S1192’"NDefine a constant instead of duplicating this literal " usuario.... " 3 times.(Øú‚ûşÿÿÿÿHÓRCRITICALZ
+CODE_SMELL
+ssquid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(‡¯ÛHÔRMAJORZ
+CODE_SMELL
+csquid:S1854‹"5Remove this useless assignment to local variable "t".(Àí¸ıHÕRMAJORZ
+CODE_SMELL
+squid:S1192f"JDefine a constant instead of duplicating this literal "fecha...." 3 times.(‘´¥¡ùÿÿÿÿHÖRCRITICALZ
+CODE_SMELL
+‘squid:S1149~"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º€ÌğşÿÿÿÿH×RMAJORZ
+CODE_SMELL
+‹squid:S1192f"VDefine a constant instead of duplicating this literal " id del registro.... " 5 times.(‘´¥¡ùÿÿÿÿHØRCRITICALZ
+CODE_SMELL
+usquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(ò¾·‚HÙRMAJORZ
+CODE_SMELL
+bsquid:S1854^"5Remove this useless assignment to local variable "t".(Ö—Ø‘HÚRMAJORZ
+CODE_SMELL
+zsquid:S00112•"FDefine and throw a dedicated exception instead of using a generic one.(ë¼éĞøÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+zsquid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(£÷ø›øÿÿÿÿHÜRMAJORZ
+CODE_SMELL
+usquid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(Š²ÃàHİRMAJORZ
+CODE_SMELL
+‘squid:S1149,"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º€ÌğşÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+hsquid:S1854Å"5Remove this useless assignment to local variable "t".(…ª¡ÅùÿÿÿÿHßRMAJORZ
+CODE_SMELL
+tsquid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(­ôÍÊHàRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(…ãö”úÿÿÿÿHáRMAJORZ
+CODE_SMELL
+’squid:S1149´"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(º€ÌğşÿÿÿÿHâRMAJORZ
+CODE_SMELL
+ysquid:S00112i"FDefine and throw a dedicated exception instead of using a generic one.(ûÜ‡ùÿÿÿÿHãRMAJORZ
+CODE_SMELL
